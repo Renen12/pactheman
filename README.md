@@ -1,6 +1,21 @@
 # pactheman
  A really dumb project for arch linux.
 Usage: 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                     --help: prints this message
                     --uhh: bypasses root requirements
                     --binbows: bypasses linux requirements
